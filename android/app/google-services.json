@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "901141010307",
+    "project_id": "zen-zone-c86de",
+    "storage_bucket": "zen-zone-c86de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901141010307:android:5532599435c8e8b7adc8b6",
+        "android_client_info": {
+          "package_name": "com.example.final2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901141010307-dtogeimjqt8g4ai598kpn6m0ldvbfk7a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.final2",
+            "certificate_hash": "37474a0086af84670e966a67b5fb9e24a339def2"
+          }
+        },
+        {
+          "client_id": "901141010307-v66ivkiojbbo3516ifbg9qjl315n4crd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvAcIrAwp8wXoW8hHFFmxJeRdc0S4vZhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901141010307-v66ivkiojbbo3516ifbg9qjl315n4crd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
